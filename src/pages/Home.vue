@@ -1,13 +1,16 @@
-<template>
+<script setup>
+defineOptions({
+    name: 'Home',
+})
 
-</template>
-
-<script>
-export default {
-    name: "Home"
-}
 </script>
 
-<style scoped>
+<template>
+    <div class="">
+
+    </div>
+</template>
+
+<style scoped lang='less'>
 
 </style>
